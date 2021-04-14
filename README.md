@@ -3,6 +3,11 @@ Basic Android app focused on front-end. It has a recycler view with cards, butto
 
 Its purpose is to be a possible ACtivity for choosing different items (in this case a short list of pokes).
 
+![Alt text](/screenshots/dark.jpg?raw=true "Dark mode")
+![Alt text](/screenshots/light.jpg?raw=true "Dark mode")
+
+
+
 
 
 

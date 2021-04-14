@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Test Recycler</string>
+
+    <string name="mango_name">Mango Poke</string>
+    <string name="tuna_name">Tuna Poke</string>
+    <string name="chicken_name">Chicken Poke</string>
+    <string name="vegan_name">Vegan Poke</string>
+
+    <string name="tuna_ingr">Tuna, edamame, cucumber, sesame seed, avocado, sea weed, white rice</string>
+    <string name="mango_ingr">Mango, avocado, edamame, feta, salmon, soy sauce, white rice</string>
+    <string name="chicken_ingr">Chicken, cucumber, edamame, carrot, garlic, soy sauce, white rice</string>
+    <string name="vegan_ingr">Tofu, cucumber, edamame, avocado, green apple, soy sauce, white rice</string>
+
+    <string name="btn_text">Order</string>
+    <string name="btn_disabled">Ordered</string>
+    <string name="snackbar_text">You ordered a </string>
+    <string name="snackbar_undo">UNDO</string>
+
+</resources>
